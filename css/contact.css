@@ -1,0 +1,51 @@
+.contact-content {
+    /* width:100vw; */
+    display: flex;
+    height: 80vh;
+    /* background-color: #75C2F6; */
+    background-color: #071952;
+    color: white;
+   margin-top:20px;
+
+}
+
+.home-articles{
+    width: 100vw;
+    padding-top:12px;
+    display: flex;
+    align-items: center;
+    /* background-color: #F4D160; */
+    /* background-color: #241468; */
+    background-color: #068FFF;
+    color:black;
+}
+
+.article{
+    padding-bottom: 1600px;
+}
+
+.btn{
+    height: 30px;
+    padding: 8px 15px;
+    border-radius: 9px;
+    font-size: 16px;
+    border: 2px solid white;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.text{
+    width: 80px;
+    border-radius: 9px;
+    height: 30px;
+    cursor:pointer;
+}
+
+.btn:hover{
+    color:white;
+    background-color:#068FFF;
+}
+
+.nav-right{
+    width:30vw;
+}
